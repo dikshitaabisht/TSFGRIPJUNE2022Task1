@@ -16,7 +16,6 @@ Tech Used:
 1. HTML
 2. CSS and Bootstrap
 3. Java Script
-4. My SQL
 
 Made by-
 Dikshita Bisht
